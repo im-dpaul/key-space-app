@@ -1,4 +1,4 @@
-package com.example.key_space_app
+package com.app.keyspace
 
 import io.flutter.embedding.android.FlutterActivity
 
