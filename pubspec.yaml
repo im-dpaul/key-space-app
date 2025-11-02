@@ -7,8 +7,58 @@ environment:
   sdk: ^3.9.2
 
 dependencies:
+
+  # Device info
+  android_id: ^0.4.0
+  device_info_plus: ^12.1.0
+  package_info_plus: ^9.0.0
+
+  # Logging
+  logger: ^2.6.2
+  chucker_flutter:
+    git:
+      url: https://github.com/syedmurtaza108/chucker-flutter.git
+      ref: master
+
+  # Internet connectivity
+  connectivity_plus: ^7.0.0
+  internet_connection_checker_plus: ^2.9.0
+
+  # HTTP request for API calling
+  dio: ^5.9.0
+  http: ^1.5.0
+  http_parser: ^4.1.2
+
+  # Firebase features
+  firebase_core: ^4.2.0
+  firebase_messaging: ^16.0.3
+  firebase_analytics: ^12.0.3
+  firebase_crashlytics: ^5.0.3
+
   flutter:
     sdk: flutter
+
+  # Notifications & toast message
+  fluttertoast: ^9.0.0
+  flutter_local_notifications: ^19.5.0
+
+  # Screen orientation & responsiveness
+  flutter_screenutil: ^5.9.3
+
+  # Dependency Injection
+  get_it: ^8.2.0
+
+  # Routing
+  go_router: ^16.2.5
+
+  # Local Storage
+  get_storage: ^2.1.1
+
+  # Date formatter
+  intl: ^0.20.2
+
+  # File opening
+  open_filex: ^4.7.0
 
 dev_dependencies:
   flutter_test:

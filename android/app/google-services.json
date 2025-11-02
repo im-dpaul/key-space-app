@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1004795522069",
+    "project_id": "key-space-app",
+    "storage_bucket": "key-space-app.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1004795522069:android:f9bc6cdf5cb6ec6327f21c",
+        "android_client_info": {
+          "package_name": "com.example.key_space_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBrEixPm7BJjZWUcwQcQ1wRjN0M0ME2Lsc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
