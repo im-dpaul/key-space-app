@@ -20,4 +20,9 @@ class ErrorMessages {
 
 class AppStrings {
   AppStrings._privateConstructor();
+
+  static const String welcomeToKeySpace = "Welcome to KeySpace";
+  static const String splashScreenDescription =
+      "Simplify your real state business with Welcome to KeySpace";
+  static const String skip = "Skip";
 }
